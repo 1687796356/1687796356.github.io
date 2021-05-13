@@ -1,4 +1,5 @@
 <--
+
 welcome to my personal space
 
 纯属个人见解，不对请指正。
@@ -34,6 +35,7 @@ Gps 定位：80 件
 制造部中的生产工人选项中把闲置工人移动到柔性线中。
 继续设计最后 3 个产品：
 ![image](https://user-images.githubusercontent.com/73807192/117288126-be419680-ae9d-11eb-9937-95985718fe2a.png)
+
 
 -->
 
